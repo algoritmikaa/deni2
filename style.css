@@ -1,0 +1,49 @@
+header img {
+    width:150px;
+    height:100px;
+}
+
+header{
+    background-color: rgb(82, 25, 128);
+    font-size:30px;
+    padding:10px;
+}
+
+a {
+    background-color: rgb(170, 70, 170);
+    border-radius:10px;
+    color: ghostwhite;
+}
+
+main{
+    padding:10px;
+}
+
+h1{
+    text-align:center ;
+}
+
+main img{
+    width:220px;
+    height:220px;
+}
+
+ul{
+    font-size: 25px;
+    list-style:url("https://mars.algoritmika.org/uploads/2021/01/smile_0_1611261360.svg");
+    
+}
+
+h2{
+    text-align: center;
+    border-top:5px solid green ;
+    border-bottom:5px solid green ;
+    font-size:30px;
+    padding:10px;
+}
+
+footer{
+    background-color: rgb(170, 70, 170);
+    padding:10px;
+    font-size:20px;
+}
